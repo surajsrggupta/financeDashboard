@@ -22,4 +22,4 @@ A high-performance Finance Dashboard built for the Frontend Developer Internship
 ## 🚀 Getting Started
 1. **Clone the project:**
    ```bash
-   git clone [https://github.com/yourusername/finance-dashboard.git](https://github.com/yourusername/finance-dashboard.git)
+   git clone [https://github.com/surajsrggupta/financeDashboard](https://github.com/surajsrggupta/financeDashboard)
