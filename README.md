@@ -20,6 +20,7 @@ A high-performance Finance Dashboard built for the Frontend Developer Internship
 - **Icons:** React Icons
 
 ## 🚀 Getting Started
+
 1. **Clone the project:**
    ```bash
-   git clone ([https://github.com/surajsrggupta/financeDashboard](https://github.com/surajsrggupta/financeDashboard.git))
+   git clone https://github.com/surajsrggupta/financeDashboard.git
